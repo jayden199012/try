@@ -1,1 +1,2 @@
-print('good day		')
+print('good day')
+print('today is friday')
