@@ -1,2 +1,2 @@
 print('good day')
-print('today is friday')
+print('today is friday and is updated')
